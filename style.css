@@ -1,0 +1,14 @@
+.primerdiv {
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px 2px black;
+}
+.divuno {
+    display: block;
+    background-color: brown;
+    width: 360px;
+    height: 360px;
+    font-size: 60px;
+}
